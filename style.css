@@ -1,0 +1,17 @@
+body{
+    
+    background-color: lightgrey;
+}
+
+.h1{
+    
+    color: white;
+    background-color: black;
+    padding-left: 500px;
+    margin: 10px;
+    border: 3px red solid;
+}
+
+.dados{
+    padding-right: 10px;
+}
