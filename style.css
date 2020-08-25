@@ -1,17 +1,37 @@
 body{
-    
-    background-color: lightgrey;
-}
+    background-image: url("iamgem.jpg");
 
+    background-color: lightgrey;
+    
+}
 .h1{
     
     color: white;
     background-color: black;
+    background-position-y: 100px;
     padding-left: 500px;
     margin: 10px;
     border: 3px red solid;
 }
 
 .dados{
-    padding-right: 10px;
+    color: black;
+    background-color: lightslategray;
+    background-position-y: 100px;
+    padding-left: 100px;
+    margin: 10px;
+    border: 3px lightcoral solid;
+    
+}
+
+#I0{
+
+    color: black;
+    background-color: cadetblue;
+    background-position-y: 100px;
+    padding-left: 100px;
+    margin: 10px;
+    border: 3px lightcoral solid;
+    
+    
 }
